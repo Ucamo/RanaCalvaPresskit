@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- example file containing base tags -->
+
+<game>	
+	<title>Rana Calva</title>
+	<founding-date>November 24, 2015</founding-date>
+	<website>http://ranacalva.com/</website>
+	<based-in>Sonora, México</based-in>
+	
+	<press-contact>contact.ranacalva@gmail.com</press-contact>
+	<phone></phone>
+	<address>
+		<line></line>
+		<line></line>
+		<line></line>
+	</address>
+
+	<socials>
+		<social>
+			<name>twitter.com/El_Tutsi</name>
+			<link>twitter.com/El_tutsi</link>
+		</social>
+		<social>
+			<name>facebook.com/baldfrog</name>
+			<link>facebook.com/baldfrog</link>
+		</social>
+	</socials>
+
+	<description>	
+		Indie Game Development Studio based in NorthEast Mexico. Focused in Mobile Games and great experiences for the player. 
+	</description>
+		
+	<histories>
+		<history>
+			<header>Early history</header>
+			<text>Rana Calva is the name of the studio created by Uriel Carrillo, that took a hobby and a passion for create great games to the next level.</text>
+		</history>
+		<history>
+			<header>After that</header>
+			<text>In 2016 Rana Calva started publishing its first games in Google Play Store, and from then on hasn't stoped in making games.</text>
+		</history>
+	</histories>
+		
+	<trailers>
+		<trailer>
+			<name>This video is nice</name>
+			<youtube>7jQbITg0MSk</youtube>
+		</trailer>
+		<trailer>
+			<name>This one too</name>
+			<youtube>0CevOaYrYDA</youtube>
+			<vimeo>12536488</vimeo>
+		</trailer>
+	</trailers>
+
+	<awards>
+		<award>
+			<description>x</description>
+			<info>x</info>
+		</award>
+	</awards>
+	
+	<quotes>
+		<quote>
+			<description>w</description>
+			<name>w</name>
+			<website>w</website>
+			<link>w</link>
+		</quote>
+	</quotes>
+	
+	<press-can-request-copy>TRUE</press-can-request-copy> <!-- can be true or false -->
+	<monetization-permission>monetize</monetization-permission> <!-- can be: 	false (no video allowed),
+																			 	ask (permission on case-per-case basis),
+																			 	non-commercial (no monetization allowed),
+																			 	monetize (full permission) -->	
+	<additionals>
+		<additional>
+			<title>Rana Calva Devlog</title>
+			<description>GameDev Blog about current and past projects</description>
+			<link>http://ranacalva.com</link>
+		</additional>
+	</additionals>
+	
+	<credits>
+		<credit>
+			<person>Uriel Carrillo</person>
+			<website>http://ranacalva.com</website>
+			<role>Game Developer</role>
+		</credit>
+	</credits>
+	
+	<contacts>
+		<contact>
+			<name>Inquiries</name>
+			<mail>contact.ranacalva@gmail.com</mail>
+		</contact>
+		<contact>
+			<name>Twitter</name>
+			<link>http://twitter.com/el_tutsi</link>
+		</contact>
+		<contact>
+			<name>Facebook</name>
+			<link>http://facebook.com/baldfrog</link>
+		</contact>
+		<contact>
+			<name>Web</name>
+			<link>http://ranacalva.com</link>
+		</contact>
+	</contacts>
+</game>
